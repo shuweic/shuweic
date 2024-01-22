@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuwei Cui</h1>
 <h3 align="center"> :books: Skillful Trouble-shooter :golf: and Teamworker :dart: </h3>
 
-- 🔭 I’m currently looking for **Backend/Full-Stack Developer position**
+- 🔭 I’m currently looking for **Entry-level Backend/Full-Stack Developer position**
 
 - 💬 Ask me about **MERN tech, TypeScript, NodeJS, Java Spring, Google Cloud**
 
