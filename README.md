@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuwei Cui</h1>
-<h3 align="center">Trouble shooting Real-world Problems, One Challenge at a Time.</h3>
+<h3 align="center">Skillful Trouble-shooter and Teamworker.</h3>
 
 - 🔭 I’m currently looking for **Backend/Full-Stack Developer position**
 
