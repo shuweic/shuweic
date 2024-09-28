@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuwei(Roy) Cui</h1>
-<h3 align="center"> Life is good, so is coding. Be Happy, Resourceful Trouble-shooter and Teamworker :dart: </h3>
+<h3 align="center"> Life is good, so is coding :blush: Be Happy, Resourceful Trouble-shooter and Teamworker :dart: </h3>
 
 - 💬 Ask me about **Go, MERN tech, TypeScript, NodeJS, Java Spring, GCP, K8s+Docker, CI/CD**
 
