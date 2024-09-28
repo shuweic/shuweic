@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuwei(Roy) Cui</h1>
 <h3 align="center"> :blush:Be Happy, Resourceful Trouble-shooter and Teamworker :dart: </h3>
 
-- 💬 Ask me about **Go, MERN tech, TypeScript, NodeJS, Java Spring, GCP, K8s+Docker, CI/CD**
+- 💬 My recent experience **Go, MERN tech, TypeScript, NodeJS, Java Spring, GCP, K8s+Docker, CI/CD**
 
 - 📫 How to reach me **shuweic227@gmail.com**
 
