@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Entry-level Backend/Full-Stack Developer position**
 
-- 💬 Ask me about **MERN tech, TypeScript, NodeJS, Java Spring, Google Cloud**
+- 💬 Ask me about **Go, MERN tech, TypeScript, NodeJS, Java Spring, GCP, K8s+Docker, CI/CD**
 
 - 📫 How to reach me **shuweic227@gmail.com**
 
