@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shuwei(Roy) Cui</h1>
+<h1 align="center">Hi 👋, I'm Shuwei Cui</h1>
 <h3 align="center"> :blush:Be Happy, Resourceful Trouble-shooter and Teamworker :dart: </h3>
 
 - 💬 My recent experience **Go, MERN tech, TypeScript, NodeJS, Java Spring, GCP, K8s+Docker, CI/CD**
