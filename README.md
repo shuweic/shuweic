@@ -65,4 +65,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuweic&show_icons=true&locale=en&layout=compact" alt="shuweic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuweic&" alt="shuweic" /></p>
